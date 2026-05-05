@@ -1,4 +1,5 @@
 # Simulando um Ataque de Brute Force de Senhas com Medusa e Kali Linux
+**(para os teste e práticas foi usado um laboratório completamente controlado e um sistema com vulnerabilidades intecionais, para estudo)**
 ## Ferramentas
 Durante este desafio, foram apresentadas diversas ferramentas amplamente utilizadas em testes de segurança, como Medusa, Hydra, WPScan, John the Ripper e Ncrack.
 
